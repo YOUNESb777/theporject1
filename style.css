@@ -1,0 +1,52 @@
+.nav {
+    text-align: center;
+    background-color: black;
+    position: 1rem;
+    color: rgb(232, 13, 13);
+    font-size: large;
+    text-decoration: none;
+    
+}
+
+.anav{
+    color: white;
+    margin: 20px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    position: static;
+}
+
+.ula{
+    color: rgb(3, 246, 201);
+    margin: 20px;
+    
+
+}
+ul{
+    text-align: center;
+
+}
+#about{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#work{
+    text-align: center;
+}
+#resume{
+    text-align: center;
+}
+.button{
+    color: white;
+    background-color: green;
+}
+#contact{
+    text-align: center;
+}
+.submit2{
+    color: white;
+    background-color: green;
+}
